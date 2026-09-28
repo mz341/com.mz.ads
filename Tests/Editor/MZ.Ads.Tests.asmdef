@@ -1,0 +1,31 @@
+{
+    "name": "MZ.Ads.Tests",
+    "rootNamespace": "MZ.Ads.Tests",
+    "references": [
+        "MZ.Ads",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS",
+        "MZ_ADS_TEST_FRAMEWORK"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.test-framework",
+            "expression": "",
+            "define": "MZ_ADS_TEST_FRAMEWORK"
+        }
+    ],
+    "noEngineReferences": false
+}

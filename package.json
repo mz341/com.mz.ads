@@ -1,0 +1,22 @@
+{
+  "name": "com.mz.ads",
+  "version": "0.2.0",
+  "displayName": "MZ Ads (AdMob)",
+  "description": "AdMob-only ads plugin: UMP consent, banner, MREC, interstitial, rewarded, rewarded interstitial and App Open with single or three-tier ad unit IDs, frequency caps and ad revenue analytics (Firebase / AppsFlyer).",
+  "unity": "2022.3",
+  "keywords": [
+    "ads",
+    "admob",
+    "monetization"
+  ],
+  "dependencies": {
+    "com.google.ads.mobile": "11.5.0"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "On-screen buttons to load and show every ad format.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}

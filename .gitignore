@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Unity package samples folder (global *~ rule would hide it)
+!Samples~/
+!Samples~/**

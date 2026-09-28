@@ -1,0 +1,19 @@
+{
+    "name": "MZ.Ads.AppsFlyer",
+    "rootNamespace": "MZ.Ads.AppsFlyer",
+    "references": [
+        "MZ.Ads",
+        "AppsFlyer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "ADS_APPSFLYER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
